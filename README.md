@@ -17,7 +17,7 @@ Con esta pagina web podras sortear infinidad de veces todos los nombres que gust
 📌 Proyecto finalizado y listo para jugar
 
 ## 🔗 Acceso al Proyecto
-Puedes acceder al proyecto en el siguiente enlace: [Enlace al proyecto](URL_DEL_PROYECTO).
+Puedes acceder al proyecto en el siguiente enlace: https://github.com/alvind23/challenge-amigo-secreto.git
 
 🛠 Tecnologías Utilizadas
 - Visual Studio Code: Para desarrollar el codigo HTML, JS y CSS
